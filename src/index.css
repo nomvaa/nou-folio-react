@@ -236,11 +236,11 @@ button:hover {
   }
 } */
 
-.cols1 .pattern {
+/* .cols1 .pattern {
   overflow: hidden;
   position: absolute;
   background: url('./Images/feathers.png');
   height: 100%;
   width: 50%;
   background-size: cover;
-}
+} */
